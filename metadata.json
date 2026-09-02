@@ -1,0 +1,6 @@
+{
+  "name": "DealHunter AI Properties",
+  "description": "Autonomous multi-agent real estate intelligence, live script execution engine, cross-platform downloadable PWA for all devices, BuyerScout search crawler, weekly agent velocity analytics, national deep-discount property scanner, and admin code studio with executive point of contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
